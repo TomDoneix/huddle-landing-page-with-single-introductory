@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/TomDoneix/huddle-landing-page-with-single-introductory)
-<!-- - Live Site URL: [Add live site URL here](https://profile-card-component-eight-jet.vercel.app/) -->
+- Live Site URL: [Add live site URL here](https://huddle-landing-page-with-single-int-omega.vercel.app/)
 
 ## Author
 
